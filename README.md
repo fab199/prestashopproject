@@ -1,3 +1,4 @@
+`PrestaShop is an open-source e-commerce platform used to build and manage online stores.`
 <h2>Launch EC2 Instance:</h2>
 
 - Using free tier t2 micro and Ubuntu AMI
